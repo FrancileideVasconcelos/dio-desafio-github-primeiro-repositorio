@@ -1,5 +1,5 @@
 # Desafio de Projeto sobre Git/Github da DIO
-Repositório criado para desafio de Projeto onde serão salvos todos os codigos criados durante os cursos na Digital Inovation One.
+Repositório criado para desafio de Projeto, onde serão salvos todos os codigos criados durante os cursos na Digital Inovation One.
 
 
 ## Links Úteis
